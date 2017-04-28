@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IPScanner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Memory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Memory</Value>
+    </Setting>
+    <Setting Name="Global" Type="System.Diagnostics.PerformanceCounterInstanceLifetime" Scope="User">
+      <Value Profile="(Default)">Global</Value>
+    </Setting>
+    <Setting Name="Tom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tom</Value>
+    </Setting>
+    <Setting Name="True" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
