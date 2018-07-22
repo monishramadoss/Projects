@@ -1,0 +1,10 @@
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\bin\Release\netcoreapp1.1\Vectorizer.deps.json
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\bin\Release\netcoreapp1.1\Vectorizer.runtimeconfig.json
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\bin\Release\netcoreapp1.1\Vectorizer.runtimeconfig.dev.json
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\bin\Release\netcoreapp1.1\Vectorizer.dll
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\bin\Release\netcoreapp1.1\Vectorizer.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\obj\Release\netcoreapp1.1\Vectorizer.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\obj\Release\netcoreapp1.1\Vectorizer.csproj.CoreCompileInputs.cache
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\obj\Release\netcoreapp1.1\Vectorizer.AssemblyInfo.cs
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\obj\Release\netcoreapp1.1\Vectorizer.dll
+C:\Users\admin\documents\visual studio 2017\Projects\Vectorizer\Vectorizer\obj\Release\netcoreapp1.1\Vectorizer.pdb
